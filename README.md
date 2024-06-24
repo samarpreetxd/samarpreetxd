@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Samarpreet! 👋
 
-<!--
-**samarpreetxd/samarpreetxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://avatars.githubusercontent.com/u/80909843?v=4)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a full-stack developer with a passion for creating innovative solutions. I love working with the latest technologies and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Rust.
+- 💬 Ask me about Crypto.
+
+## 🛠 Skills
+### Languages
+- JavaScript 
+- Python3
+- C
+- C#
+- PHP
+- Rust 
+- Java 
+- Bash 
+- MySQL
+
+### Frameworks
+- React
+- Next.js 
+- Django
+- Flask
+- Laravel
+- Electron
+- Unity
+- Pandas
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samarpreetxd&show_icons=true&hide_title=true&count_private=true&theme=default)
+
+## 📫 Get in Touch
+- [Instagram](https://instagram.com/samarpreetxd)
