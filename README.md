@@ -1,6 +1,5 @@
 # Hi there, I'm Samarpreet! 👋
 
-![Header](https://avatars.githubusercontent.com/u/80909843?v=4)
 
 ## 🚀 About Me
 I'm a full-stack developer with a passion for creating innovative solutions. I love working with the latest technologies and continuously improving my skills.
