@@ -1,36 +1,50 @@
-# Hi there, I'm Samarpreet! 👋
+# 👋 Hi, I'm **Samarpreet**
+### *Full-Stack Developer | Tech Explorer | Crypto Enthusiast*
+
+![Profile Views](https://komarev.com/ghpvc/?username=samarpreetxd&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/samarpreetxd?label=Follow&style=social)
+
+---
+
+## About Me
+
+I'm a passionate full-stack developer who loves turning ideas into reality using code. Whether it’s building dynamic web apps or diving into the low-level magic of Rust, I thrive on learning and innovating.
+
+- Currently learning **Rust**
+- Ask me anything about **Crypto**
+
+---
+
+## Tech Stack
+
+### Languages  
+`JavaScript` • `Python` • `Rust` • `C` • `C#` • `PHP` • `Java` • `Bash` • `MySQL`
+
+### Frameworks & Tools  
+`React` • `Next.js` • `Django` • `Flask` • `Laravel` • `Electron` • `Unity` • `Pandas`
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samarpreetxd&theme=flat&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarpreetxd&show_icons=true&count_private=true&theme=transparent&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarpreetxd&theme=transparent" />
+</p>
 
 
-## 🚀 About Me
-I'm a full-stack developer with a passion for creating innovative solutions. I love working with the latest technologies and continuously improving my skills.
 
-- 🌱 I’m currently learning Rust.
-- 💬 Ask me about Crypto.
+---
 
-## 🛠 Skills
-### Languages
-- JavaScript 
-- Python3
-- C
-- C#
-- PHP
-- Rust 
-- Java 
-- Bash 
-- MySQL
+## Let's Connect
 
-### Frameworks
-- React
-- Next.js 
-- Django
-- Flask
-- Laravel
-- Electron
-- Unity
-- Pandas
+- 📸 [Instagram](https://instagram.com/zhgo28q9j)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samarpreetxd&show_icons=true&hide_title=true&count_private=true&theme=default)
-
-## 📫 Get in Touch
-- [Instagram](https://instagram.com/samarpreetxd)
