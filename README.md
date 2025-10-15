@@ -1,7 +1,6 @@
 # 👋 Hi, I'm **Samarpreet**
 ### *Full-Stack Developer | Tech Explorer | Crypto Enthusiast*
 
-![Profile Views](https://komarev.com/ghpvc/?username=samarpreetxd&color=blue&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/samarpreetxd?label=Follow&style=social)
 
 ---
